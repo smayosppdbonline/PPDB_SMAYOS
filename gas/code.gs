@@ -29,8 +29,8 @@ const DEFAULT_FORM_FIELDS = [
 
 const DEFAULT_SETTINGS = {
   namaSekolah: "SDN Harapan Bangsa",
-  alamat: "Jl. Mutiara No. 132",
-  telepon: "(021) 1234-5678",
+  alamat: "Jl. Mutiara No. 132, Galaydubu, Kec. Pulau-Pulau Aru, Kab. Kepulauan Aru, Maluku.",
+  telepon: "(0917) 21773",
   email: "smayossudarso.sch.id",
   deskripsi: "Mencetak generasi penerus bangsa yang cerdas, berakhlak mulia, dan siap menghadapi tantangan masa depan dengan pendidikan berkualitas.",
   statusPendaftaran: "Buka",
