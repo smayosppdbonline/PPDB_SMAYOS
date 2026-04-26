@@ -11,7 +11,7 @@
 const SHEET_NAME = "Data Pendaftar";
 const ADMIN_SHEET_NAME = "Admin";
 const SETTINGS_SHEET_NAME = "Pengaturan";
-const FOLDER_NAME = "PPDB_SMAYOS";
+const FOLDER_NAME = "PPDB SD";
 
 const DEFAULT_FORM_FIELDS = [
   { id: "Nama Lengkap", label: "Nama Lengkap", type: "text", required: true },
