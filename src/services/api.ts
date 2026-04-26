@@ -69,7 +69,7 @@ export interface AdminData extends RegistrationData {
 const getInitialMockSettings = (): AppSettings => {
   const defaultSettings: AppSettings = {
     namaSekolah: "SDN Harapan Bangsa",
-    alamat: "Jl. Mutiara No. 132, Galaydubu, Kec. Pulau-Pulau Aru, Kab. Kepulauan Aru, Maluku.",
+    alamat: "Jl. Mutiara No. 132, Galaydubu, Kec. Pulau-Pulau Aru, Kab. Kepulauan Aru, Maluku",
     telepon: "(0917) 21773",
     email: "dobosmayossudarso@gmail.com",
     deskripsi: "Mencetak generasi penerus bangsa yang cerdas, berakhlak mulia, dan siap menghadapi tantangan masa depan dengan pendidikan berkualitas.",
@@ -79,7 +79,7 @@ const getInitialMockSettings = (): AppSettings => {
     tanggalPengumuman: "",
     logoSekolah: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2022&auto=format&fit=crop",
     tahunPendaftaran: new Date().getFullYear().toString(),
-    koordinatSekolah: "-5.76236,134.23107 ", // Default to Maluku
+    koordinatSekolah: "-5.76236,134.23107", // Default to Maluku
     tanggalCutoffUsia: "", // Tanggal ditetapkan cutoff usia
     sambutanKepalaSekolah: "Selamat datang di website resmi PPDB SDN Harapan Bangsa. Kami berkomitmen untuk memberikan pelayanan pendidikan terbaik bagi putra-putri Anda. Mari bergabung bersama kami untuk mencetak generasi penerus bangsa yang cerdas, berakhlak mulia, dan berprestasi.",
     fotoKepalaSekolah: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=200&auto=format&fit=crop",
